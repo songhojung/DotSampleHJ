@@ -22,6 +22,7 @@ public class SpawnBallSystem : SystemBase
     {
         //var commandbuffer = EntityCommandBufferSystem.CreateCommandBuffer().Asparellerwriter
 
+         
 
 
         time += Time.DeltaTime;
